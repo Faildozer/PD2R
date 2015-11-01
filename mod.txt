@@ -1,6 +1,6 @@
 {
-	"name": "Weapontweaks",
-	"description": "Mmm hamburgers",
+	"name": "PD2R",
+	"description": "Payday 2 Rebalance",
 	"author": "Faildozer",
 	"contact": "nope",
 	"version": "1",
